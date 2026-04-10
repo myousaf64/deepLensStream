@@ -1,0 +1,4 @@
+[33m1480b0e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m refactor: updated UI of the app for better navigation
+[33md06b8c4[m initial project
+[33m22f7129[m fix: added more directories to ignore
+[33mc9f3134[m fix: doesnt push models in the git repo
