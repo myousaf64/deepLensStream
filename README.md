@@ -30,3 +30,8 @@ streamlit run app.py
 ## Notes for the target laptop
 
 This MVP is tuned for a laptop RTX 3050 Ti with 16 GB RAM. Start with `yolov8n.pt`, 640 px inference size, and frame skipping set to 2 or 3 for smoother playback.
+
+## TODO
+
+- [ ] Resolve or remove the TODO and FIXME markers in 1 file:
+      `teschSpec.md`
